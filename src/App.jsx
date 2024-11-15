@@ -1,7 +1,7 @@
-import About from "./components/about"
-import Footer from "./components/footer"
-import Info from "./components/info"
-import Interest from "./components/interest"
+import About from "./components/About"
+import Footer from "./components/Footer"
+import Info from "./components/Info"
+import Interest from "./components/Interest"
 function App() {
   return (
     <div className="container">
